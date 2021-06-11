@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CRUD app</string>
+    <string name="insert_student">INSERT STUDENT</string>
+</resources>
